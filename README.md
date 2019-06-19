@@ -1,0 +1,2 @@
+# cexample
+store c
